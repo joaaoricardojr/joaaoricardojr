@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1020&lines=Hello!+I+am+Jo%C3%A3o+Ricardo+Jr.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaaoricardojr&theme=dark"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaaoricardojr&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
